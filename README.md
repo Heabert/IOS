@@ -1,0 +1,3 @@
+# IOS
+
+This ios application is built for users to upload any image and add 5 fliters of thier choice, also they are able to adjust the filters accordingly... 
